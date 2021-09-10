@@ -8,6 +8,10 @@ button {
     cursor: pointer;
 }
 
+.button-active {
+    background-color: rgba(138, 43, 226, 0.6);
+}
+
 h3 {
     text-align: center;
 }
